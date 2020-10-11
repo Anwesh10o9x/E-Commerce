@@ -1,7 +1,7 @@
 E-Commerce Basic Website
 ----------------------------------------------
 - The framework used is RubyonRails
-- Any Version of Ruby
+- Any Version of Ruby(Just change the Gemfile accordingly)
 - Rails Framework 6.0.3.2
 - Implements SpreeCommerce(An opensource and free E-Commerce framework)
 - Make sure to do 'bundle update' before running the app.
